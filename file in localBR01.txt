@@ -1,0 +1,6 @@
+2nd push request test!
+
+pull request seems to be like a push to me hmm...
+But when you refer to "push", you are talking about two same branches
+with pushed side being the ancestor of pushing side, the child.
+An pull request includes two diff branches being merged, on the other hand.
